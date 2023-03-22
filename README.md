@@ -1,1 +1,1 @@
-# PushNotificationDemo
+# Azure Notification App
