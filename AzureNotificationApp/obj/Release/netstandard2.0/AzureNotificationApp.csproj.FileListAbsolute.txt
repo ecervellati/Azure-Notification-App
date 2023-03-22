@@ -1,0 +1,15 @@
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\bin\Release\netstandard2.0\AzureNotificationApp.deps.json
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\bin\Release\netstandard2.0\AzureNotificationApp.dll
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\bin\Release\netstandard2.0\AzureNotificationApp.pdb
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.AssemblyInfoInputs.cache
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.AssemblyInfo.cs
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.dll
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\ref\AzureNotificationApp.dll
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.pdb
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\AzureNotificationApp.csproj.AssemblyReference.cache
+C:\Users\ecervellat\source\repos\AzureNotificationApp\AzureNotificationApp\obj\Release\netstandard2.0\refint\AzureNotificationApp.dll

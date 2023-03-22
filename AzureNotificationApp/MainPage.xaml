@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AzureNotificationApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <StackLayout VerticalOptions="EndAndExpand"  
+             HorizontalOptions="FillAndExpand"
+             Padding="20,40">
+                <Button x:Name="RegisterButton"
+            Text="Register"
+            Clicked="RegisterButtonClicked" />
+                <Button x:Name="DeregisterButton"
+            Text="Deregister"
+            Clicked="DeregisterButtonClicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>
